@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:328()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:101" ;
     skos:prefLabel "Barima"@eng-Latn ;
-    wdata:q7200235 "GY0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -66,7 +64,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:1001" ;
     skos:prefLabel "Right Bank Essequibo"@eng-Latn ;
-    wdata:q7200235 "GY1001" ;
 .
 
 <urn:mdciii:1603:16:328:2:1002>
@@ -75,7 +72,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:1002" ;
     skos:prefLabel "Torani/Bulletwood"@eng-Latn ;
-    wdata:q7200235 "GY1002" ;
 .
 
 <urn:mdciii:1603:16:328:2:102>
@@ -84,7 +80,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:102" ;
     skos:prefLabel "Waini"@eng-Latn ;
-    wdata:q7200235 "GY0102" ;
 .
 
 <urn:mdciii:1603:16:328:2:201>
@@ -93,7 +88,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:201" ;
     skos:prefLabel "Moruka/Pomeroon"@eng-Latn ;
-    wdata:q7200235 "GY0201" ;
 .
 
 <urn:mdciii:1603:16:328:2:202>
@@ -102,7 +96,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:202" ;
     skos:prefLabel "Somerset And Berks"@eng-Latn ;
-    wdata:q7200235 "GY0202" ;
 .
 
 <urn:mdciii:1603:16:328:2:301>
@@ -111,7 +104,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:301" ;
     skos:prefLabel "Essequibo I./L.B.E.River"@eng-Latn ;
-    wdata:q7200235 "GY0301" ;
 .
 
 <urn:mdciii:1603:16:328:2:302>
@@ -120,7 +112,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:302" ;
     skos:prefLabel "Essequibo Islands"@eng-Latn ;
-    wdata:q7200235 "GY0302" ;
 .
 
 <urn:mdciii:1603:16:328:2:303>
@@ -129,7 +120,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:303" ;
     skos:prefLabel "Bonasika/Boerasirie"@eng-Latn ;
-    wdata:q7200235 "GY0303" ;
 .
 
 <urn:mdciii:1603:16:328:2:304>
@@ -138,7 +128,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:304" ;
     skos:prefLabel "Lower West Demerara"@eng-Latn ;
-    wdata:q7200235 "GY0304" ;
 .
 
 <urn:mdciii:1603:16:328:2:401>
@@ -147,7 +136,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:401" ;
     skos:prefLabel "Moblissa/La Reconnai"@eng-Latn ;
-    wdata:q7200235 "GY0401" ;
 .
 
 <urn:mdciii:1603:16:328:2:402>
@@ -156,7 +144,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:402" ;
     skos:prefLabel "Buxton/Mahaica"@eng-Latn ;
-    wdata:q7200235 "GY0402" ;
 .
 
 <urn:mdciii:1603:16:328:2:501>
@@ -165,7 +152,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:501" ;
     skos:prefLabel "Mahaica/Mahaicony"@eng-Latn ;
-    wdata:q7200235 "GY0501" ;
 .
 
 <urn:mdciii:1603:16:328:2:502>
@@ -174,7 +160,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:502" ;
     skos:prefLabel "Mahaicony/Berbice"@eng-Latn ;
-    wdata:q7200235 "GY0502" ;
 .
 
 <urn:mdciii:1603:16:328:2:601>
@@ -183,7 +168,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:601" ;
     skos:prefLabel "East Berbice/W.Canje"@eng-Latn ;
-    wdata:q7200235 "GY0601" ;
 .
 
 <urn:mdciii:1603:16:328:2:602>
@@ -192,7 +176,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:602" ;
     skos:prefLabel "East Canje/E.C.Berb"@eng-Latn ;
-    wdata:q7200235 "GY0602" ;
 .
 
 <urn:mdciii:1603:16:328:2:603>
@@ -201,7 +184,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:603" ;
     skos:prefLabel "Black Bush Polder"@eng-Latn ;
-    wdata:q7200235 "GY0603" ;
 .
 
 <urn:mdciii:1603:16:328:2:604>
@@ -210,7 +192,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:604" ;
     skos:prefLabel "Lower Corentyne Rive"@eng-Latn ;
-    wdata:q7200235 "GY0604" ;
 .
 
 <urn:mdciii:1603:16:328:2:605>
@@ -219,7 +200,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:605" ;
     skos:prefLabel "Left Bank Upper Canj"@eng-Latn ;
-    wdata:q7200235 "GY0605" ;
 .
 
 <urn:mdciii:1603:16:328:2:606>
@@ -228,7 +208,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:606" ;
     skos:prefLabel "Upper Canje/Corentyn"@eng-Latn ;
-    wdata:q7200235 "GY0606" ;
 .
 
 <urn:mdciii:1603:16:328:2:607>
@@ -237,7 +216,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:607" ;
     skos:prefLabel "Upper Corentyne"@eng-Latn ;
-    wdata:q7200235 "GY0607" ;
 .
 
 <urn:mdciii:1603:16:328:2:701>
@@ -246,7 +224,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:701" ;
     skos:prefLabel "Cuyuni"@eng-Latn ;
-    wdata:q7200235 "GY0701" ;
 .
 
 <urn:mdciii:1603:16:328:2:702>
@@ -255,7 +232,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:702" ;
     skos:prefLabel "Mazaruni/L.B.E.Rive"@eng-Latn ;
-    wdata:q7200235 "GY0702" ;
 .
 
 <urn:mdciii:1603:16:328:2:801>
@@ -264,7 +240,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:801" ;
     skos:prefLabel "Ireng/Upper Potaro"@eng-Latn ;
-    wdata:q7200235 "GY0801" ;
 .
 
 <urn:mdciii:1603:16:328:2:802>
@@ -273,7 +248,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:802" ;
     skos:prefLabel "Lower Potaro/Ladsm"@eng-Latn ;
-    wdata:q7200235 "GY0802" ;
 .
 
 <urn:mdciii:1603:16:328:2:901>
@@ -282,7 +256,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:901" ;
     skos:prefLabel "Rupununi West"@eng-Latn ;
-    wdata:q7200235 "GY0901" ;
 .
 
 <urn:mdciii:1603:16:328:2:902>
@@ -291,6 +264,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:328:2:902" ;
     skos:prefLabel "Rewa(Illiwa)/U.E"@eng-Latn ;
-    wdata:q7200235 "GY0902" ;
 .
 

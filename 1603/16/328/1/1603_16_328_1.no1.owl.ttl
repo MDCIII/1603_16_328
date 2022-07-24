@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Barima-Waini"@eng-Latn ;
-    wdata:q7200235 "GY01" ;
+    wdata:Q7200235 "GY01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +54,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Upper Demerara-Berbice"@eng-Latn ;
-    wdata:q7200235 "GY10" ;
+    wdata:Q7200235 "GY10" ;
 .
 
 <urn:mdciii:1603:16:328:1:2>
@@ -65,7 +65,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Pomeroon-Supenaam"@eng-Latn ;
-    wdata:q7200235 "GY02" ;
+    wdata:Q7200235 "GY02" ;
 .
 
 <urn:mdciii:1603:16:328:1:3>
@@ -76,7 +76,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Essequibo Islands-West Demerara"@eng-Latn ;
-    wdata:q7200235 "GY03" ;
+    wdata:Q7200235 "GY03" ;
 .
 
 <urn:mdciii:1603:16:328:1:4>
@@ -87,7 +87,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Demerara-Mahaica"@eng-Latn ;
-    wdata:q7200235 "GY04" ;
+    wdata:Q7200235 "GY04" ;
 .
 
 <urn:mdciii:1603:16:328:1:5>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Mahaica Berbice"@eng-Latn ;
-    wdata:q7200235 "GY05" ;
+    wdata:Q7200235 "GY05" ;
 .
 
 <urn:mdciii:1603:16:328:1:6>
@@ -109,7 +109,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "East Berbice-Corentyne"@eng-Latn ;
-    wdata:q7200235 "GY06" ;
+    wdata:Q7200235 "GY06" ;
 .
 
 <urn:mdciii:1603:16:328:1:7>
@@ -120,7 +120,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Cuyuni-Mazaruni"@eng-Latn ;
-    wdata:q7200235 "GY07" ;
+    wdata:Q7200235 "GY07" ;
 .
 
 <urn:mdciii:1603:16:328:1:8>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Potaro-Siparuni"@eng-Latn ;
-    wdata:q7200235 "GY08" ;
+    wdata:Q7200235 "GY08" ;
 .
 
 <urn:mdciii:1603:16:328:1:9>
@@ -142,6 +142,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:328:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:328:0> ;
     skos:prefLabel "Upper Takutu-Upper Essequibo"@eng-Latn ;
-    wdata:q7200235 "GY09" ;
+    wdata:Q7200235 "GY09" ;
 .
 
